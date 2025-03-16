@@ -1,0 +1,5 @@
+echo "This is the initial version of the file." > collaboration.txt
+git add collaboration.txt
+git commit -m "Add initial collaboration file"
+git push origin main
+
